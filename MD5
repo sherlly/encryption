@@ -10,7 +10,7 @@ int main()
 	string str1;
 	cout << "Please enter a message you want to encrype." << endl;
 	getline(cin,str1);
-	
+
 	int A, B, C, D, a, b, c, d;
 	A = 0x67452301;
 	B = 0xefcdab89;
